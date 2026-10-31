@@ -37105,7 +37105,6 @@
       "Anxiety",
       "Depression",
       "Grief & Loss",
-      "BPD",
       "Relationship Issues",
       "Trauma"
     ],
@@ -37116,7 +37115,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-27",
     "id": "CA00911",
-    "search": "peter miller peter miller nordic psychology inc. alberta alberta virtual (alberta) psychologist mc, registered psychologist english  anxiety depression grief & loss bpd relationship issues trauma https://nordicpsychology.ca/"
+    "search": "peter miller peter miller nordic psychology inc. alberta alberta virtual (alberta) psychologist mc, registered psychologist english anxiety depression grief & loss relationship issues trauma https://nordicpsychology.ca/"
   },
   {
     "name": "RED CEDAR ALBERTA LTD",
@@ -54537,16 +54536,24 @@
       "Grief & Loss",
       "Panic",
       "Stress",
-      "Trauma"
+      "Trauma",
+      "2SLGBTQ+",
+      "ADHD",
+      "Coping Skills",
+      "Identity & Self-Exploration",
+      "Life Transitions",
+      "Relationships & Interpersonal Issues",
+      "Sleep Difficulties",
+      "Stress & Burnout"
     ],
     "website": "https://www.awarepsychology.ca",
     "sourceType": "NIHB Master List",
     "sourceRegion": "ALBERTA",
     "sourceDate": "2026-06-01",
     "sourceUrl": "",
-    "lastVerified": "2026-06-01",
+    "lastVerified": "2026-10-30",
     "id": "CA01339",
-    "search": "maria tsoukalas, r.psych maria tsoukalas aware psychology inc. alberta calgary calgary psychologist registered psychologist english t2p calgary addiction anxiety depression grief & loss panic stress trauma https://www.awarepsychology.ca"
+    "search": "maria tsoukalas, r.psych maria tsoukalas aware psychology inc. alberta calgary calgary psychologist registered psychologist english t2p calgary addiction anxiety depression grief & loss panic stress trauma 2slgbtq+ adhd coping skills identity & self-exploration life transitions relationships & interpersonal issues sleep difficulties stress & burnout https://www.awarepsychology.ca"
   },
   {
     "name": "REFOCUS YOU PSYCHOLOGICAL SERVICES/REFOCUS YOU INC",
@@ -205944,7 +205951,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-27",
     "id": "CA05096",
-    "search": "aastha jain aastha jain virtual connect ontario ontario ontario-wide virtual registered psychotherapist registered psychotherapist english, hindi  abuse addiction anxiety childhood trauma depression grief & loss mmiw panic residential school trauma self-esteem self-harm stress trauma violence https://virtualconnect.ca/"
+    "search": "aastha jain aastha jain virtual connect ontario ontario ontario-wide virtual registered psychotherapist registered psychotherapist english, hindi abuse addiction anxiety childhood trauma depression grief & loss mmiw panic residential school trauma self-esteem self-harm stress trauma violence https://virtualconnect.ca/"
   },
   {
     "name": "DR. JAKSIC PSYCHOLOGICAL SERVICES",
@@ -232624,7 +232631,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-27",
     "id": "CA05764",
-    "search": "stephanie mcalister stephanie mcalister virtual connect ontario ontario ontario-wide virtual registered psychotherapist registered psychotherapist english  abuse addiction anxiety childhood trauma crisis support depression mmiw panic residential school trauma self-esteem self-harm stress trauma violence https://virtualconnect.ca/"
+    "search": "stephanie mcalister stephanie mcalister virtual connect ontario ontario ontario-wide virtual registered psychotherapist registered psychotherapist english abuse addiction anxiety childhood trauma crisis support depression mmiw panic residential school trauma self-esteem self-harm stress trauma violence https://virtualconnect.ca/"
   },
   {
     "name": "ENVISION COUNSELLING SERVICES",
@@ -245457,21 +245464,21 @@
     "search": "northwind counselling services heide nicholson northwind counselling services ontario thunder bay thunder bay social worker registered social worker english p7e thunder bay abuse addiction anxiety childhood trauma crisis support depression grief & loss residential school trauma mmiw panic self-esteem self-harm stress trauma violence children & teens"
   },
   {
-    "name": "POTHOS COUNSELLING & CONSULTATION SERVICES",
+    "name": "Krystina Nickerson",
     "legalName": "Krystina Nickerson",
-    "businessName": "POTHOS COUNSELLING & CONSULTATION SERVICES",
+    "businessName": "Pothos Counselling and Consultation Services",
     "type": "Social Worker",
-    "designation": "Registered Social Worker",
+    "designation": "MSW, RSW, CACBT-Certified Social Worker",
     "province": "ON",
     "provinceName": "Ontario",
     "location": "Peterborough",
     "locations": [
       "Peterborough"
     ],
-    "displayLocation": "Peterborough",
+    "displayLocation": "Peterborough County (in-person) · Ontario-wide virtual",
     "postal": "K9J",
-    "virtual": "No",
-    "language": "French",
+    "virtual": "Yes",
+    "language": "English",
     "indigenous": "No",
     "fnExperience": "Yes",
     "supports": [
@@ -245484,16 +245491,27 @@
       "Panic",
       "Self-Esteem",
       "Stress",
-      "Trauma"
+      "Trauma",
+      "OCD",
+      "Social Anxiety",
+      "Specific Phobias",
+      "Generalized Anxiety",
+      "Health Anxiety",
+      "2SLGBTQ+",
+      "Exposure and Response Prevention (ERP)",
+      "CBT",
+      "ACT"
     ],
-    "website": "",
+    "website": "https://www.pothoscounselling.com",
     "sourceType": "NIHB Master List + Psychology Today",
     "sourceRegion": "Ontario",
     "sourceDate": "2026-06-01",
     "sourceUrl": "https://www.psychologytoday.com/ca/therapists/krystina-nickerson-peterborough-on/977038",
-    "lastVerified": "2026-06-01",
+    "lastVerified": "2026-10-30",
     "id": "CA06085",
-    "search": "pothos counselling & consultation services krystina nickerson pothos counselling & consultation services ontario peterborough peterborough social worker registered social worker french k9j peterborough abuse addiction anxiety depression residential school trauma grief & loss panic self-esteem stress trauma"
+    "search": "krystina nickerson krystina nickerson pothos counselling and consultation services ontario peterborough peterborough county (in-person) · ontario-wide virtual social worker msw, rsw, cacbt-certified social worker english k9j peterborough abuse addiction anxiety depression residential school trauma grief & loss panic self-esteem stress trauma ocd social anxiety specific phobias generalized anxiety health anxiety 2slgbtq+ exposure and response prevention (erp) cbt act https://www.pothoscounselling.com",
+    "provinceWideVirtual": true,
+    "serviceMode": "In-person (Peterborough County) and virtual (Ontario)"
   },
   {
     "name": "TERRI NICKLE",
@@ -255893,37 +255911,6 @@
     "lastVerified": "2026-06-01",
     "id": "CA06344",
     "search": "pothen matthew matthew pothen pothen matthew ontario orleans orleans registered psychotherapist registered psychotherapist english k1e orleans abuse addiction anxiety childhood trauma crisis support depression grief & loss panic self-esteem self-harm stress trauma violence"
-  },
-  {
-    "name": "Pothos Counselling and Consultation Services",
-    "legalName": "Pothos Counselling and Consultation Services",
-    "businessName": "Pothos Counselling and Consultation Services",
-    "type": "Social Worker",
-    "designation": "RSW, CACBT",
-    "province": "ON",
-    "provinceName": "Ontario",
-    "location": "Peterborough",
-    "locations": [
-      "Peterborough"
-    ],
-    "displayLocation": "Peterborough",
-    "postal": "K9H",
-    "virtual": "Yes",
-    "language": "Unknown",
-    "indigenous": "Unknown",
-    "fnExperience": "Unknown",
-    "supports": [
-      "Anxiety",
-      "Panic"
-    ],
-    "website": "",
-    "sourceType": "Psychology Today",
-    "sourceRegion": "Psychology Today",
-    "sourceDate": "2026-08-24",
-    "sourceUrl": "https://www.psychologytoday.com/ca/therapists/pothos-counselling-and-consultation-services-peterborough-on/1787263",
-    "lastVerified": "2026-08-24",
-    "id": "CA06345",
-    "search": "pothos counselling and consultation services pothos counselling and consultation services pothos counselling and consultation services ontario peterborough peterborough social worker rsw, cacbt unknown k9h peterborough anxiety panic"
   },
   {
     "name": "Potter Candy",
@@ -288725,7 +288712,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-23",
     "id": "CA07164",
-    "search": "myroslava tyzkyj, rp myroslava tyzkyj redbird therapy ontario toronto registered psychotherapist rp english anxiety depression grief & loss trauma violence https://redbirdtherapy.ca/nihb/"
+    "search": "myroslava tyzkyj, rp myroslava tyzkyj redbird therapy ontario toronto toronto registered psychotherapist rp english m5s toronto anxiety depression grief & loss trauma violence https://redbirdtherapy.ca/nihb/"
   },
   {
     "name": "QUALIA COUNSELLING SERVICES",
@@ -446668,36 +446655,6 @@
     "search": "stephanie lofquist stephanie lofquist british columbia vancouver vancouver clinical counsellor registered clinical counsellor unknown vancouver children & teens"
   },
   {
-    "name": "Stephanie Mcalister",
-    "legalName": "Stephanie Mcalister",
-    "businessName": "",
-    "type": "Clinical Counsellor",
-    "designation": "Registered Clinical Counsellor",
-    "province": "BC",
-    "provinceName": "British Columbia",
-    "location": "Penticton",
-    "locations": [
-      "Penticton"
-    ],
-    "displayLocation": "Penticton",
-    "postal": "",
-    "virtual": "Yes",
-    "language": "Unknown",
-    "indigenous": "No",
-    "fnExperience": "Unknown",
-    "supports": [
-      "Children & Teens"
-    ],
-    "website": "",
-    "sourceType": "FNHA Registered Provider List",
-    "sourceRegion": "BC - Interior",
-    "sourceDate": "2026-08",
-    "sourceUrl": "https://www.fnha.ca/Documents/FNHA-First-Nations-Health-Benefits-Mental-Health-Provider-List.pdf",
-    "lastVerified": "2026-08",
-    "id": "CA11643",
-    "search": "stephanie mcalister stephanie mcalister british columbia penticton penticton clinical counsellor registered clinical counsellor unknown penticton children & teens"
-  },
-  {
     "name": "Stephanie Mccune",
     "legalName": "Stephanie Mccune",
     "businessName": "",
@@ -453445,8 +453402,7 @@
       "Self-Esteem",
       "Self-Harm",
       "Stress",
-      "Trauma",
-      "BPD"
+      "Trauma"
     ],
     "website": "https://williamspsychotherapy.ca/",
     "sourceType": "Provider confirmed",
@@ -453455,7 +453411,7 @@
     "sourceUrl": "https://williamspsychotherapy.ca/",
     "lastVerified": "2026-10-19",
     "id": "CA11871",
-    "search": "christina williams, msc, rp christina williams williams psychotherapy ontario sault ste. marie sault ste. marie registered psychotherapist msc, rp english sault ste. marie anxiety childhood trauma children & teens crisis support depression mmiw residential school trauma self-esteem self-harm stress trauma bpd https://williamspsychotherapy.ca/"
+    "search": "christina williams, msc, rp christina williams williams psychotherapy ontario sault ste. marie sault ste. marie registered psychotherapist msc, rp english sault ste. marie anxiety childhood trauma children & teens crisis support depression mmiw residential school trauma self-esteem self-harm stress trauma https://williamspsychotherapy.ca/"
   },
   {
     "name": "Maria Tsoukalas, R.Psych",
@@ -453482,17 +453438,25 @@
       "Grief & Loss",
       "Panic",
       "Stress",
-      "Trauma"
+      "Trauma",
+      "2SLGBTQ+",
+      "ADHD",
+      "Coping Skills",
+      "Identity & Self-Exploration",
+      "Life Transitions",
+      "Relationships & Interpersonal Issues",
+      "Sleep Difficulties",
+      "Stress & Burnout"
     ],
     "website": "https://www.awarepsychology.ca",
     "sourceType": "Provider requested virtual service area",
     "sourceRegion": "Provider submitted",
     "sourceDate": "2026-10-21",
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-30",
     "id": "CA11872",
     "serviceMode": "Virtual only",
     "relatedListingId": "CA01339",
-    "search": "maria tsoukalas, r.psych maria tsoukalas, r.psych aware psychology inc. northwest territories yellowknife yellowknife psychologist registered psychologist english yellowknife addiction anxiety depression grief & loss panic stress trauma https://www.awarepsychology.ca"
+    "search": "maria tsoukalas, r.psych maria tsoukalas, r.psych aware psychology inc. northwest territories yellowknife yellowknife psychologist registered psychologist english yellowknife addiction anxiety depression grief & loss panic stress trauma 2slgbtq+ adhd coping skills identity & self-exploration life transitions relationships & interpersonal issues sleep difficulties stress & burnout https://www.awarepsychology.ca"
   },
   {
     "name": "Angelica Buccini, BSW, RSW",
@@ -453860,7 +453824,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-27",
     "id": "CA11883",
-    "search": "yu chen zhong yu chen zhong innerlogue therapy & psychology alberta calgary calgary registered psychologist rpsych english, mandarin  calgary anxiety childhood trauma grief & loss panic self-esteem stress trauma https://www.innerloguetherapy.com/team/yuchen-zhong-calgary-psychologist/"
+    "search": "yu chen zhong yu chen zhong innerlogue therapy & psychology alberta calgary calgary registered psychologist rpsych english, mandarin calgary anxiety childhood trauma grief & loss panic self-esteem stress trauma https://www.innerloguetherapy.com/team/yuchen-zhong-calgary-psychologist/"
   },
   {
     "name": "Meaghan Barrett, MA, RP",
@@ -453945,7 +453909,7 @@
     "sourceUrl": "",
     "lastVerified": "2026-10-23",
     "id": "CA11885",
-    "search": "ottawa psychotherapy services  ottawa psychotherapy services ontario ottawa ottawa · nepean other clinic: social workers and registered psychotherapists english, french ottawa nepean abuse addiction anxiety childhood trauma children & teens crisis support depression grief & loss panic self-esteem self-harm stress trauma violence https://www.ottawapsychotherapyservices.ca/"
+    "search": "ottawa psychotherapy services ottawa psychotherapy services ontario ottawa ottawa · nepean other clinic: social workers and registered psychotherapists english, french k2g 6e2 ottawa nepean abuse addiction anxiety childhood trauma children & teens crisis support depression grief & loss panic self-esteem self-harm stress trauma violence https://www.ottawapsychotherapyservices.ca/"
   },
   {
     "name": "Paige Rice",
@@ -454030,5 +453994,173 @@
     "lastVerified": "2026-10-25",
     "id": "CA11887",
     "search": "michelle maciver michelle maciver wild yarrow wellness manitoba portage la prairie portage la prairie · winnipeg · brandon social worker bsw, rsw english portage la prairie winnipeg brandon abuse addiction anxiety childhood trauma children & teens depression residential school trauma trauma violence adhd neurodivergence"
+  },
+  {
+    "name": "Dr. Jessica Campoli",
+    "legalName": "Jessica Campoli",
+    "businessName": "Campoli Psychology",
+    "type": "Psychologist",
+    "designation": "Ph.D., C.Psych. — Clinical & Health Psychologist",
+    "province": "ON",
+    "provinceName": "Ontario",
+    "location": "Ontario",
+    "locations": [],
+    "displayLocation": "Ontario-wide virtual",
+    "postal": "",
+    "virtual": "Yes",
+    "provinceWideVirtual": true,
+    "language": "English",
+    "indigenous": "No",
+    "fnExperience": "Yes",
+    "supports": [
+      "Abuse",
+      "Anxiety",
+      "Childhood Trauma",
+      "Depression",
+      "Frontline Workers",
+      "Grief & Loss",
+      "Life Transitions",
+      "Panic",
+      "Relational Challenges",
+      "Relationship Issues",
+      "Self-Confidence",
+      "Self-Esteem",
+      "Stress",
+      "Trauma"
+    ],
+    "website": "https://www.psychologytoday.com/ca/therapists/879372",
+    "sourceType": "Provider submitted",
+    "sourceRegion": "Provider submitted",
+    "sourceDate": "2026-10-30",
+    "lastVerified": "2026-10-30",
+    "id": "CA-JC-20261030-ON",
+    "serviceMode": "Virtual only",
+    "search": "dr. jessica campoli jessica campoli campoli psychology ontario ontario ontario-wide virtual psychologist ph.d., c.psych. — clinical & health psychologist english abuse anxiety childhood trauma depression frontline workers grief & loss life transitions panic relational challenges relationship issues self-confidence self-esteem stress trauma https://www.psychologytoday.com/ca/therapists/879372"
+  },
+  {
+    "name": "Dr. Jessica Campoli",
+    "legalName": "Jessica Campoli",
+    "businessName": "Campoli Psychology",
+    "type": "Psychologist",
+    "designation": "Ph.D., C.Psych. — Clinical & Health Psychologist",
+    "province": "QC",
+    "provinceName": "Quebec",
+    "location": "Quebec",
+    "locations": [],
+    "displayLocation": "Quebec-wide virtual",
+    "postal": "",
+    "virtual": "Yes",
+    "provinceWideVirtual": true,
+    "language": "English",
+    "indigenous": "No",
+    "fnExperience": "Yes",
+    "supports": [
+      "Abuse",
+      "Anxiety",
+      "Childhood Trauma",
+      "Depression",
+      "Frontline Workers",
+      "Grief & Loss",
+      "Life Transitions",
+      "Panic",
+      "Relational Challenges",
+      "Relationship Issues",
+      "Self-Confidence",
+      "Self-Esteem",
+      "Stress",
+      "Trauma"
+    ],
+    "website": "https://www.psychologytoday.com/ca/therapists/879372",
+    "sourceType": "Provider submitted",
+    "sourceRegion": "Provider submitted",
+    "sourceDate": "2026-10-30",
+    "lastVerified": "2026-10-30",
+    "id": "CA-JC-20261030-QC",
+    "serviceMode": "Virtual only",
+    "search": "dr. jessica campoli jessica campoli campoli psychology quebec quebec quebec-wide virtual psychologist ph.d., c.psych. — clinical & health psychologist english abuse anxiety childhood trauma depression frontline workers grief & loss life transitions panic relational challenges relationship issues self-confidence self-esteem stress trauma https://www.psychologytoday.com/ca/therapists/879372"
+  },
+  {
+    "name": "Dr. Jessica Campoli",
+    "legalName": "Jessica Campoli",
+    "businessName": "Campoli Psychology",
+    "type": "Psychologist",
+    "designation": "Ph.D., C.Psych. — Clinical & Health Psychologist",
+    "province": "NS",
+    "provinceName": "Nova Scotia",
+    "location": "Nova Scotia",
+    "locations": [],
+    "displayLocation": "Nova Scotia-wide virtual",
+    "postal": "",
+    "virtual": "Yes",
+    "provinceWideVirtual": true,
+    "language": "English",
+    "indigenous": "No",
+    "fnExperience": "Yes",
+    "supports": [
+      "Abuse",
+      "Anxiety",
+      "Childhood Trauma",
+      "Depression",
+      "Frontline Workers",
+      "Grief & Loss",
+      "Life Transitions",
+      "Panic",
+      "Relational Challenges",
+      "Relationship Issues",
+      "Self-Confidence",
+      "Self-Esteem",
+      "Stress",
+      "Trauma"
+    ],
+    "website": "https://www.psychologytoday.com/ca/therapists/879372",
+    "sourceType": "Provider submitted",
+    "sourceRegion": "Provider submitted",
+    "sourceDate": "2026-10-30",
+    "lastVerified": "2026-10-30",
+    "id": "CA-JC-20261030-NS",
+    "serviceMode": "Virtual only",
+    "search": "dr. jessica campoli jessica campoli campoli psychology nova scotia nova scotia nova scotia-wide virtual psychologist ph.d., c.psych. — clinical & health psychologist english abuse anxiety childhood trauma depression frontline workers grief & loss life transitions panic relational challenges relationship issues self-confidence self-esteem stress trauma https://www.psychologytoday.com/ca/therapists/879372"
+  },
+  {
+    "name": "Dr. Jessica Campoli",
+    "legalName": "Jessica Campoli",
+    "businessName": "Campoli Psychology",
+    "type": "Psychologist",
+    "designation": "Ph.D., C.Psych. — Clinical & Health Psychologist",
+    "province": "NB",
+    "provinceName": "New Brunswick",
+    "location": "New Brunswick",
+    "locations": [],
+    "displayLocation": "New Brunswick-wide virtual",
+    "postal": "",
+    "virtual": "Yes",
+    "provinceWideVirtual": true,
+    "language": "English",
+    "indigenous": "No",
+    "fnExperience": "Yes",
+    "supports": [
+      "Abuse",
+      "Anxiety",
+      "Childhood Trauma",
+      "Depression",
+      "Frontline Workers",
+      "Grief & Loss",
+      "Life Transitions",
+      "Panic",
+      "Relational Challenges",
+      "Relationship Issues",
+      "Self-Confidence",
+      "Self-Esteem",
+      "Stress",
+      "Trauma"
+    ],
+    "website": "https://www.psychologytoday.com/ca/therapists/879372",
+    "sourceType": "Provider submitted",
+    "sourceRegion": "Provider submitted",
+    "sourceDate": "2026-10-30",
+    "lastVerified": "2026-10-30",
+    "id": "CA-JC-20261030-NB",
+    "serviceMode": "Virtual only",
+    "search": "dr. jessica campoli jessica campoli campoli psychology new brunswick new brunswick new brunswick-wide virtual psychologist ph.d., c.psych. — clinical & health psychologist english abuse anxiety childhood trauma depression frontline workers grief & loss life transitions panic relational challenges relationship issues self-confidence self-esteem stress trauma https://www.psychologytoday.com/ca/therapists/879372"
   }
 ]
